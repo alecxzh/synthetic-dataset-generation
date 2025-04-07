@@ -1,13 +1,17 @@
 {
     "test": [
-        
     ],
     "train": [
-        "box/box_01.png",
-        "box/box_02.png",
-        "box/box_03.png",
-        "box/box_04.png",
-        "box/box_05.png"
+        "box/cat01.png",
+        "box/cat02.png",
+        "box/cat03.png",
+        "box/cat04.png",
+        "box/cat05.png",
+        "box/cat06.png",
+        "box/cat07.png",
+        "box/cat08.png",
+        "box/cat09.png",
+        "box/cat010.png"
     ],
     "validation": [
     ]
